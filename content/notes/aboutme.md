@@ -1,7 +1,7 @@
 ---
 title: "About ME"
 tags:
-- about
+- "about"
 ---
 
 ## Swaraj Purohit

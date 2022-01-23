@@ -1,8 +1,8 @@
 ---
-title: "Books
+title: "Books"
 tags
-- book
-- recommendation
+- "book"
+- "recommendation"
 ---
 
 Shantaram -- Gregory David Roberts  
