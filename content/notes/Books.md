@@ -1,6 +1,6 @@
 ---
 title: "Books"
-tags
+tags:
 - "book"
 - "recommendation"
 ---
