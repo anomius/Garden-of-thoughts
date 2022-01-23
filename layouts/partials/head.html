@@ -1,9 +1,13 @@
 <head>
     <!-- Meta tags -->
     <meta charset="UTF-8">
-    <meta name="description" content="{{if .IsHome}}{{$.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}">
     <title>{{ if .Title }}{{ .Title }}{{ else }}{{ $.Site.Data.config.page_title }}{{ end }}</title>
+    <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ $.Site.Data.config.page_title }}{{ end }}" />
+    <meta property="og:description" content="{{if .IsHome}}{{$.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}" />
+    <meta property="og:image" content="static/Gardenofthoughts.png" />
+    <meta property="og:site_name" content="Savvy's crazy brain " />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <link rel="shortcut icon" type="image/png" href="/icon.png" />
 
     <!-- CSS Stylesheets and Fonts -->
