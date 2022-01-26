@@ -2,9 +2,9 @@
     <!-- Meta tags -->
     <meta charset="UTF-8">
     <title>{{ if .Title }}{{ .Title }}{{ else }}{{ $.Site.Data.config.page_title }}{{ end }}</title>
+    <meta property="og:image" content="https://github.com/anomius/Garden-of-thoughts/blob/9552921c13fbee30aa1b0eed3aa89fc6eb5bf087/static/Gardenofthoughts.png" />
     <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ $.Site.Data.config.page_title }}{{ end }}" />
     <meta property="og:description" content="{{if .IsHome}}{{$.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}" />
-    <meta property="og:image" content="static/Gardenofthoughts.png" />
     <meta property="og:site_name" content="Savvy's crazy brain " />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 

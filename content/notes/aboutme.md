@@ -4,7 +4,7 @@ tags:
 - "about"
 ---
 
-## Swaraj Purohit
+# Swaraj Purohit
 
 
 
