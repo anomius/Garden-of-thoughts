@@ -4,6 +4,7 @@ tags:
 - "book"
 - "recommendation"
 ---
+
 [THE PSYCHOLOGY OF MONEY](https://www.amazon.in/PSYCHOLOGY-MONEY-DELUXE-Morgan-Housel/dp/9390166934/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)--Morgan Housel
 
 Shantaram -- Gregory David Roberts  

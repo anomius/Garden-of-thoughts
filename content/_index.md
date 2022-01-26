@@ -13,6 +13,6 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 - [All Notes](/notes)
 - [2022](/notes/2022.md)
-- [Book Read](Books.md)
+- [Book Read](/notes/Books.md)
 - [Setup-related Notes](/tags/setup)
 
