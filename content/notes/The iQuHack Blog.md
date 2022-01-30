@@ -7,9 +7,11 @@ tags:
 
 Made a game of life on Quantum Game Of life
 
-![[images/ezgif-6-f0664836c1.gif]]
+![](https://github.com/anomius/Garden-of-thoughts/blob/hugo/content/notes/images/ezgif-6-f0664836c1.gif?raw=true)
+
+
 is baar full flex baji kari learnt a lot in 3d rendering and voxel outputs 
-![[images/output.gif]]
+![](images/output.gif)
 ```python
 import numpy as np
 
