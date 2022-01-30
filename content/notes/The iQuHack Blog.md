@@ -7,9 +7,9 @@ tags:
 
 Made a game of life on Quantum Game Of life
 
-!()[notes/images/ezgif-6-f0664836c1.gif]
+![[images/ezgif-6-f0664836c1.gif]]
 is baar full flex baji kari learnt a lot in 3d rendering and voxel outputs 
-!()[notes/images/output.gif]
+![[images/output.gif]]
 ```python
 import numpy as np
 
