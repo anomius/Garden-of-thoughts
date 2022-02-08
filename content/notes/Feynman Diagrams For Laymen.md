@@ -46,7 +46,7 @@ Different possible Feynman diagrams for the electron interaction and exchange of
 
 Diagram (a) and (b) show the interaction of electrons where one of the electron emits a second photon that is absorbed by the other electron. Diagram (d) shows the movement of photon from one electron to the other and in doing so it temporarily forms an electron-positron pair (depicted by the circular path in the diagram). Diagrams (e) and (f) depict the interaction of electrons where one of electrons emit an additional photon that is absorbed by another either before or after the big scatter. Diagrams (g), (h), (i) and (j) show the electromagnetic interaction where a virtual photon is emitted and reabsorbed by one of the electrons either before or after the main interaction.
 
-Feynman diagrams come in handy while representing the interactions of matter in doing the quantum mechanical calculations. Unfortunately, in order for you to do those complex calculations you must take quantum mechanics, quantum field theory to be more specific, in your grad classes. I have a BS major in Physics, yet it is difficult for me sometimes to get my head around these calculations. I guess, it shall be more comprehensible for me when I join my graduate program major in Quantum Mechanics.
+Feynman diagrams come in handy while representing the interactions of matter in doing the quantum mechanical calculations. Unfortunately, in order for you to do those complex calculations you must take quantum mechanics, quantum field theory to be more specific, in your grad classes. 
 
 _References:_
 
