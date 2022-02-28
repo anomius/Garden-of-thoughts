@@ -1,7 +1,7 @@
 ---
 title: "MIT-WPU Hackathon"
 tags:
-- "college"
+- "College"
 - "Hackathons"
 - "Experence"
 ---

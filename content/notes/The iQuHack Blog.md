@@ -1,8 +1,9 @@
 ---
 title: "The iQuHack Blog"
 tags:
+- "Quantum Computing"
 - "experence"
-- "full on memeing"
+- "memeing"
 ---
 
 Made a game of life on Quantum Game Of life

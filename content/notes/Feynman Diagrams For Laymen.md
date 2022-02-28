@@ -3,6 +3,7 @@ title: "Feynman Diagrams For Laymen"
 tags:
 - "Physics"
 - "Knowlege"
+- "Quantum"
 ---
 # Feynman Diagrams For Laymen
 
@@ -18,7 +19,7 @@ Richard Feynman at Caltech. Caltech Archives Image.
 
 It was in 1948, at the Pocono Conference where Richard Feynman first introduced these diagrams. In the spring of 1949, he published a paper explaining the Feynman diagrams. These kinds of pictorial or diagrammatic representations weren’t really new at the time. [Ernst Stueckelberg](https://en.wikipedia.org/wiki/Ernst_Stueckelberg), a Swiss student at the time, had developed a diagrammatic approach of representing elementary particle interactions and published during somewhere between 1943–45. But it was Richard Feynman who sort of refined and brought the visual representations to fruition.
 
-Now, these diagrams are extremely useful for theorists and made the calculations much easier by presenting complicated mathematical equations as _trajectories._ This was the reason, why Niels Bohr (who, by the way, was an attendee at the Pocono Conference) got furious and reportedly stated that Feynman didn’t _know_ quantum mechanics. [[Ref]](https://www.sciencedirect.com/topics/chemistry/feynman-diagram)
+Now, these diagrams are extremely useful for theorists and made the calculations much easier by presenting complicated mathematical equations as _trajectories._ This was the reason, why Niels Bohr (who, by the way, was an attendee at the Pocono Conference) got furious and reportedly stated that Feynman didn’t _know_ quantum mechanics.
 
 ## Why do particles interact?
 
@@ -55,3 +56,33 @@ _References:_
 [https://www.secretsofuniverse.in/feynman-diagrams/](https://www.secretsofuniverse.in/feynman-diagrams/)
 
 [_Gleick, James, and Freeman J. Dyson. Genius: The life and science of richard feynman. CNIB, 2012._](https://webmail.psych.purdue.edu/9bir1c88eeyu/07-jettie-hahn/g-9780679747048-genius-the-life-and-science-of-richard-feynman-p.pdf)
+
+# Simon
+
+---
+
+#### Goal
+
+We are given function that we know maps exactly 2 inputs to the same output across all its domain (possible inputs) and the difference between each pair of inputs is the same for all pairs of inputs. For example a function that maps:
+
+-   1, 4 -> 1
+-   2, 5 -> 2
+-   3, 6 -> 3
+-   etc.
+
+Find the difference (for the above example 3
+
+#### General Strategy
+
+We will feed the function with a superposition of values so that it computes the output in superposition as well entagling the input and output registers. We can then ideally performe a partial measurement on the outcome which will collapse our input to one particular superposition of inputs like (1+4, or 2+5 from the example above). With some additional measurements we can then recover the values and calculate the difference classically.
+
+The partial measurement technique is not always implementable in hardware so you can also just do measurements of all the qubits and then do post selection (select the subset with equal output) in order to recover the desired input.
+
+#### Steps
+
+-   Step 1: Put input registers into equal superposition
+-   Step 2: Run the blackbox
+-   Step 3: Measure (here you need a decent number of shots)
+-   Step 4: post select and calculate result classically
+
+---
