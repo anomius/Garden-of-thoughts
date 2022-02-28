@@ -5,7 +5,7 @@ tags:
 - "Physics"
 - "Knowlege"
 ---
-# Introduction
+## Introduction
 
 ---
 
@@ -56,7 +56,7 @@ Most of these algorithms rely on two core techniques that we'll sumamrize here. 
 
 ---
 
-# Deutsch-Jozsa
+## Deutsch-Jozsa
 
 ---
 
@@ -78,7 +78,7 @@ We use phase kickback in order to determine whether the blackbox function is usi
 
 ---
 
-# Bernstein-Vazirani
+## Bernstein-Vazirani
 
 ---
 
@@ -100,7 +100,7 @@ We will use phase kickback in order to see which qubits are used to control the 
 
 ---
 
-# Simon
+## Simon
 
 ---
 
@@ -130,7 +130,7 @@ The partial measurement technique is not always implementable in hardware so you
 
 ---
 
-# Teleportation
+## Teleportation
 
 ---
 
@@ -154,7 +154,7 @@ Entangle your state with one of the qubits in an already entangled pair and appl
 
 ---
 
-# Superdense Coding
+## Superdense Coding
 
 ---
 
@@ -181,7 +181,7 @@ Given 2 classical bits of information encode them into 1 qubit and send them ove
 
 ---
 
-# Grover
+## Grover
 
 ---
 
@@ -199,7 +199,7 @@ Coming Soon...
 
 ---
 
-# Quantum Fourier Transform
+## Quantum Fourier Transform
 
 ---
 
@@ -221,7 +221,7 @@ Coming Soon...
 
 ---
 
-# Quantum Phase Estimation
+## Quantum Phase Estimation
 
 ---
 
@@ -250,7 +250,7 @@ Coming soon...
 
 ---
 
-# Shor's Period Finding
+## Shor's Period Finding
 
 ---
 
